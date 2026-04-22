@@ -2,6 +2,12 @@
 
 Aplicación web orientada a conectar artistas emergentes con locales, permitiendo la gestión de presentaciones y oportunidades dentro del ecosistema musical.
 
+### Miembros
+- Anchante Arana Alvaro Nicolas
+- Jara Perez Rodrigo Ramiro
+- Ponce Perez Delpiero
+- Silva Herencia Gabriel Andre
+
 ###  Stack tecnológico
 - Frontend: React, Angular
 - Backend: Java
