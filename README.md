@@ -1,2 +1,3 @@
 # DrinNTUNES
-Plataforma web para promoción de bandas musicales
+PLATAFORMA DEDICADA A CANTANTES O ARTISTAS QUE ESTEN INTERESADOS EN TOCAR EN UN LOCAL Y CRECER PROFESIONALMENTE
+plataforma LOCAL que usa , REACT, ANGULAR , JAVA y POSTGRESQL para su funcionamiento
