@@ -1,3 +1,13 @@
-# DrinNTUNES
-PLATAFORMA DEDICADA A CANTANTES O ARTISTAS QUE ESTEN INTERESADOS EN TOCAR EN UN LOCAL Y CRECER PROFESIONALMENTE
-plataforma LOCAL que usa , REACT, ANGULAR , JAVA y POSTGRESQL para su funcionamiento
+##  Plataforma de Gestión de Artistas y Eventos
+
+Aplicación web orientada a conectar artistas emergentes con locales, permitiendo la gestión de presentaciones y oportunidades dentro del ecosistema musical.
+
+###  Stack tecnológico
+- Frontend: React, Angular
+- Backend: Java
+- Base de datos: PostgreSQL
+
+###  Características
+- Gestión de usuarios (artistas/locales)
+- Publicación y búsqueda de eventos
+- Interacción entre artistas y locales
